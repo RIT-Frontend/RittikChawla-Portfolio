@@ -28,7 +28,7 @@ const downloadCV = () => {
                         <span className="up">HI!</span>
                         <span className="down">I am Rittik Chawla</span>
                     </h1>
-                    <p className="header-subtitle">FRONTEND WEB DESIGNER</p>
+                    <p className="header-subtitle">Software Developer</p>
 
                     <button className="btn btn-primary" id="downloadButton" onClick={downloadCV}>Download CV</button>
 
